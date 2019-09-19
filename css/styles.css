@@ -1,0 +1,162 @@
+body {
+  font-family: 'Gayathri', sans-serif;
+  font-family: 'Aldrich', sans-serif;
+  font-family: 'Sarpanch', sans-serif;
+  background-color: #000;
+  color: white;
+}
+
+.firstcon {
+  text-align: left;
+}
+
+.icon:hover {
+  color: white;
+}
+
+.icon1 {
+  color: #FAB85A;
+  margin-bottom: 0.2rem;
+}
+
+.icon2 {
+  color: #C1E6EE;
+  margin-bottom: 0.2rem;
+}
+
+.icon3 {
+  color: #FA8556;
+  margin-bottom: 0.2rem;
+}
+
+#title {
+  background-color: #000;
+  color: white;
+}
+
+h1 {
+  font-family: "Sarpanch";
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1;
+}
+
+h3 {
+  font-weight: 900;
+}
+
+.container-fluid {
+  padding: 5% 10% 5% 10%;
+}
+
+.secondcon {
+  text-align: center;
+  background-color: black;
+}
+
+.navbar {
+  padding: 0 0 4rem;
+}
+
+.navbar-brand {
+  font-weight: 800;
+  font-size: 1.5rem;
+}
+
+.nav-item {
+  padding: 0 10px;
+}
+
+.secondcon {
+  padding-top: 40px;
+  background-color: #111111;
+}
+
+.idont {
+  background-color: black;
+  text-align: center;
+  padding: 0 10% 30px 10%;
+  font-size: 12px;
+}
+
+h2 {
+  font-size: 12px;
+}
+
+.btn.lg {
+
+}
+
+.download-button {
+  margin: 5% 2% 5% 0;
+}
+
+.thediscs {
+  width: 92%;
+  margin-left: 10px;
+}
+
+.carousel-item {
+  padding: 40px 10% 40px 10%;
+}
+
+.readour {
+  margin-top: 30px;
+  font-size: 14px;
+  font-weight: 400;
+  padding: 0 10% 0 10%;
+}
+
+#testimonials {
+  background-color: #000;
+  text-align: center;
+}
+
+.caro {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.tronim {
+  width: 10%;
+  margin: 5px;
+
+}
+
+#press {
+  background-color: #000;
+  text-align: center;
+  padding: 0 10% 3% 10%;
+}
+
+#pricing {
+  background-color: #000;
+  text-align: center;
+  padding: 0 10% 3% 10%;
+}
+
+.card {
+  background-color: #000;
+  padding: 0 10% 3% 10%;
+}
+
+.card {
+  padding: 0 1px 5px 1px;
+}
+
+.cardh {
+  padding: 12 1px 5px 1px;
+  font-weight: 600;
+}
+
+#footer {
+  text-align: center;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  background-color: #111111;
+}
+
+.lol {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
